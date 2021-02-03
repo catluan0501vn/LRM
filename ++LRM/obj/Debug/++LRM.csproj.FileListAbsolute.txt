@@ -1,0 +1,10 @@
+E:\Study\++LRM_LINQ\++LRM\bin\Debug\++LRM.exe.config
+E:\Study\++LRM_LINQ\++LRM\bin\Debug\++LRM.exe
+E:\Study\++LRM_LINQ\++LRM\bin\Debug\++LRM.pdb
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\__LRM.Form1.resources
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\__LRM.Properties.Resources.resources
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\++LRM.csproj.GenerateResource.cache
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\++LRM.csproj.CoreCompileInputs.cache
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\++LRM.exe
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\++LRM.pdb
+E:\Study\++LRM_LINQ\++LRM\obj\Debug\++LRM.csprojAssemblyReference.cache
